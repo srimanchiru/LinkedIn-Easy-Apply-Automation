@@ -8,6 +8,8 @@ Further expansion plans:
 1) Must be able to search jobs in multiple cities one by one
 2) Must be able to search for multplie job titles one by one
 
+This tutorial is for educational puroposes only.
+
 ## Installation
 
 * Python 2.7.*
