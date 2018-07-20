@@ -9,7 +9,7 @@ Further expansion plans:
 2) Must be able to search for multplie job titles one by one
 
 This tutorial is for educational puroposes only.
-
+https://github.com/fabricio-aguiar/Easy-Apply-bot 
 ## Installation
 
 * Python 2.7.*
